@@ -1,6 +1,6 @@
 # Online-Quiz-Application
 ## Purpose of the Project:
-Aim of this project is make easy to conduct exam. Through online examination System we have save the time
+Aim of this project is make easy to conduct quiz. Through online quiz application we have save the time
 expending between exam and result. The main idea behind developing this project is to prove fast way of
 conducting exam through internet. Through the help of this project a person can register free and give exam
 for checking his ability. Basically, it is an online test system that allows users to take online test and
